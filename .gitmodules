@@ -1,9 +1,12 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/BugHunter34/chat-app-client.git
+	branch = main
 [submodule "server"]
 	path = server
 	url = https://github.com/BugHunter34/chat-app-server.git
+	branch = main
 [submodule "blog"]
 	path = blog
 	url = https://github.com/BugHunter34/chat-app-blog.git
+	branch = main
