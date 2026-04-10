@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/BugHunter34/chat-app-server.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/BugHunter34/chat-app-blog.git
